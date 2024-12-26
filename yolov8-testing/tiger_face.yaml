@@ -1,0 +1,5 @@
+train: D:/Face-Detection/yolov8-testing/train/images
+val: D:/Face-Detection/yolov8-testing/val/images
+
+nc: 1  # Number of classes
+names: ['tiger_face']  # Class names
